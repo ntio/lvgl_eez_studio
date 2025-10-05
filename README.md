@@ -2,6 +2,7 @@
 ejemplos lvgl eez studio arduino cyd
 
 # Referencia a los proyectos originales:
+# Reference to the original projects:
 
 # LVGL YouTube Tutorial using EEZ Studio
 * https://youtu.be/TGUtOXiPaHE - Speedometer using Slider, Scale and Images
@@ -29,6 +30,8 @@ ejemplos lvgl eez studio arduino cyd
 * https://youtu.be/QpoLW9APGmo - Read from SD Card 
 
 # CYD setup details available at RandomNerdTutorials
+# Los detalles de configuración están disponibles en:
+
 ESP32-2432S028R Cheap Yellow Display LVGL example with EEZ Studio.
 
 Assumes:
